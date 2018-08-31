@@ -2,7 +2,7 @@
 
 I don't give a fuc* what is it
 
- > it's just a best architecture in node.js
+ > it's just a best architecture in node.js (sarcasm)
 
 Just clone and run
 
