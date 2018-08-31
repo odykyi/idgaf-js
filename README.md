@@ -6,6 +6,8 @@ I don't give a fuc* what is it
 
  > it's just a best architecture in node.js (sarcasm)
 
+https://github.com/odykyi/idgaf-js/blob/master/fuck1.js
+
 Just clone and run
 
     $ npm start
