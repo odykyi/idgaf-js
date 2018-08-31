@@ -1,0 +1,20 @@
+{
+  "name": "idgaf-js",
+  "version": "1.0.0",
+  "description": "I don't give a fuc* what is it",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odykyi/IDGAF-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odykyi/IDGAF-js/issues"
+  },
+  "homepage": "https://github.com/odykyi/IDGAF-js#readme"
+}
