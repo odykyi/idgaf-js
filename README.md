@@ -1,5 +1,7 @@
 # IDGAF-js
 
+*Pay attenton to curly braces*
+
 I don't give a fuc* what is it
 
  > it's just a best architecture in node.js (sarcasm)
